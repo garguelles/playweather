@@ -1,5 +1,9 @@
 # Play Weather
 
+## Status
+
+[![Code Climate](https://codeclimate.com/github/rubycluster/playweather/badges/gpa.svg)](https://codeclimate.com/github/rubycluster/playweather)
+
 ## The Idea
 
 Weather mood expressed in music.
